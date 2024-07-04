@@ -20,8 +20,8 @@ export default function MainImage() {
                         <div className="grid grid-cols-1 md:grid-cols-2 gap-4 relative z-0">
                             <div className="h-full w-full flex items-center absolute justify-center -z-10">
                                 <div className="w-[360px] h-[360px] items-center border-4 bg-[url('https://media.istockphoto.com/id/1471872215/vector/modern-red-and-white-abstract-papercut-business-background-vector-design.jpg?s=612x612&w=0&k=20&c=2pwaNIgsaX0T6Z9v1aMriRsUeWjs4jUJZQ9x5zqkJz4=')] justify-center flex ">
-                                    <div className="w-[160px] h-[160px]  m-auto rounded-full cursor-pointer bg-red-600 overflow-hidden md:col-span-2">
-                                        <img className="rounded-full w-full h-full object-cover -rotate-45" src="prof/me.jpg" />
+                                    <div className="w-[160px] h-[160px]  m-auto rounded-full cursor-pointer bg-red-50 overflow-hidden md:col-span-2">
+                                        <img className="rounded-full w-full h-full object-cover -rotate-45" src="https://cdn-icons-png.flaticon.com/512/6885/6885498.png" />
                                     </div>
                                 </div>
                             </div>
