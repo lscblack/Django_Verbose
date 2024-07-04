@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active-text {
+  color:rgb(239 68 68);
+  border-color: rgb(239 68 68);
+}
+.text-primary{
+  color: rgb(61, 63, 88);
+}
